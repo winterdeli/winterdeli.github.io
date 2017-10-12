@@ -1,0 +1,152 @@
+{
+  "projects": [
+    {
+      "Title": "Bedah UNSRAT Information System",
+      "Description": "Data centric Information System to manage Staffs, Students, Lecturers, Patients (Medical Records). The system also generates Reports for Management Purpose and supports Data search.",
+      "Stack": "Angular 2/4, PHP Lumen, MySQL DB, JWT, Dingo API",
+      "Status": "Active",
+      "Cover": "/assets/images/projects/bedahunsrat/cover.jpg",
+      "Tags": [
+        "Website",
+        "Web Application"
+      ]
+    },
+    {
+      "Title": "Health Safety, Environment and Quality (HSEQ) Management System",
+      "Description": "HSEQ Web Application for a startup company in Australia.",
+      "Stack": "Angular 1, ASP.NET Webform, Microsoft SQL Server, Linq SQL, Dapper, RabbitMQ",
+      "Status": "Active",
+      "Cover": "/assets/images/projects/epihub/cover.jpg",
+      "Tags": [
+        "Website",
+        "Web Application"
+      ]
+    },
+    {
+      "Title": "Paradise Property Group",
+      "Description": "<p>Website and Property Management System for Paradise Property Group, a big real eastate company in Bali. The website integrates with the Property Management System in forms of Property Search Application.</p><p>The application can search Property of any given type with several filter parameters like Region, Location, Price Range, etc. Property Data is stored in a MySQL database and synced from a Third Party system in Australia.</p>",
+      "Stack": "PHP Laravel, Bootstrap 3.x, Angular 1, MySQL DB, MyDesktop Integration (http://www.mydesktop.com.au/) for Property Data",
+      "Status": "Inactive",
+      "Cover": "/assets/images/projects/ppg/cover.jpg",
+      "Tags": [
+        "Website",
+        "Web Application",
+        "Platform"
+      ]
+    },
+    {
+      "Title": "Anna Bali Tour",
+      "Description": "Website for a Tour Company in Bali",
+      "Stack": "Jekyll",
+      "Status": "Inactive",
+      "Cover": "/assets/images/projects/abt/cover.jpg",
+      "Tags": [
+        "Website"
+      ]
+    },
+    {
+      "Title": "ZIP Water",
+      "Description": "Website for ZIP Water, Australia",
+      "Stack": "Sitecore CMS, LESS, JS, Bootstrap 3.x",
+      "Status": "Active",
+      "Cover": "/assets/images/projects/zip/cover.jpg",
+      "Url": "https://www.zipwater.com/",
+      "Tags": [
+        "Website"
+      ]
+    },
+    {
+      "Title": "HP Constructions",
+      "Description": "Website for HP Constructions, Australia",
+      "Stack": "HTML, LESS, JS",
+      "Status": "Active",
+      "Cover": "/assets/images/projects/hpc/cover.jpg",
+      "Url": "http://hpconstructions.com.au/",
+      "Tags": [
+        "Website"
+      ]
+    },
+    {
+      "Title": "aidWeb",
+      "Description": "<p>Portal and Platform for International NGOs and Other Non-profit Organisations. This portal/platform allows NGOs and Organisations to register and put information like news, activities, profiles, events, media links, galleries, etc. Organisations can also create a &quot;Call to Action&quot; activities that allow people to participate in social events. Besides organisations, this platform can also support individuals who are actively involved in non-profit activities to put information like news, events, and media.</p><p>The platform has global and country-based personalisation, meaning that viewers can choose what information they want to see, either global (world-wide) information or a country information like Australia or Indonesia.</p>",
+      "Stack": "PHP Laravel, Bootstrap 3.x, LESS, UnderscoreJS and BackboneJS, MySQL DB",
+      "Status": "Inactive",
+      "Cover": "/assets/images/projects/aidpost/cover.jpg",
+      "Tags": [
+        "Website",
+        "Web Application",
+        "Portal",
+        "Platform"
+      ]
+    },
+    {
+      "Title": "Kudos Points",
+      "Description": "<p>Kudos Points is a Multi Platform Application (Mobile and Web). This application is a People Recognition Platform that allows users to give feedbacks to colleagues in a company.</p><p>The Platform allows users to create profile, submit feedbacks in form of &quot;Kudos&quot;, Badges, Titles, Awards, and Comments about other colleagues as form of recognition of ones achievements related to work (skills or ethics), personality, or other things.</p><p>Virtual leaderboard is introduced to give people with great performance a fair acknowledgement and appreciation</p>",
+      "Stack": ".NET 3.5 - 4, ASP.NET Web Form, Microsoft SQL Server, LLBLGen ORM, ASP.NET Web API, BackboneJS, UnderscoreJS, LESS, NodeJS, PhoneGap/Cordova",
+      "Status": "Inactive",
+      "Cover": "/assets/images/projects/kudos/cover.jpg",
+      "Tags": [
+        "Website",
+        "Web Application",
+        "Platform",
+        "Mobile Application"
+      ]
+    },
+    {
+      "Title": "People Prophet",
+      "Description": "<p>People Prophet is an HR Management System providing integrated solutions for HR related matters. The System takes form as SaaS (Software as a Service) and designed to accommodate companies of multiple type of industries.</p><p>The System acted as a small ERP with several modules like:</p><ul><li>People Register: to store employee profiles and HR related data.</li><li>Competency Management: for managing employee competency data as well as designing competency platform of a company.</li><li>Performance Reviews: to perform periodical reviews to employees and store them in historical data and produce reports.</li><li>Competency Audit: to perform competency check to employees and store the data for reporting purpose.</li><li>Performance Appraisal: to design appraisal platform in the company and to conduct periodical appraisal for employees.</li><li>Skills Manager: to record employees skills for reporting and resource management purpose.</li></ul>",
+      "Stack": ".NET 3.5 - 4, ASP.NET Web Form, Microsoft SQL Server, LLBLGen ORM, ASP.NET Web API, BackboneJS, UnderscoreJS, LESS, NodeJS, PhoneGap/Cordova",
+      "Status": "Inactive",
+      "Cover": "/assets/images/projects/pp/cover.jpg",
+      "Tags": [
+        "Website",
+        "Web Application",
+        "Platform"
+      ]
+    },
+    {
+      "Title": "DKWeddings",
+      "Description": "<p>A Platform for Wedding Vendors and Honeymoon Packages.</p><p>In this website, Wedding Vendors can provide information such as Vendor details of services and packages, media (video and photos), and portfolio. This website will help Vendors in their digital presence to achieve increased sales and marketing values.</p><p>This website also allows Vendors like Hotels or Tour Travels to provide Honeymoon Packages. This platform will help newlywed or couples to find desired and suitable packages.</p>",
+      "Stack": "Mono (.NET on Linux), ASP.NET MVC, Ubuntu, Nginx, MySQL DB, Dapper ORM",
+      "Status": "Inactive",
+      "Cover": "/assets/images/projects/dkweddings/cover.jpg",
+      "Tags": [
+        "Website",
+        "Portal",
+        "Platform",
+        "E-Commerce"
+      ]
+    },
+    {
+      "Title": "Whisky Saigon",
+      "Description": "<p>Website for Whisky Saigon, Boston, USA</p><p>This is an AJAX based website with very good design and high performance load time.</p>",
+      "Stack": "ASP.NET MVC, Microsoft SQL Server, NHibernate ORM, JS, CSS",
+      "Status": "Active",
+      "Cover": "/assets/images/projects/whiskysaigon/cover.jpg",
+      "Tags": [
+        "Website"
+      ]
+    },
+    {
+      "Title": "Sentosa Villas Group",
+      "Description": "<p>A Custom CMS (Content Management System) for managing 6 integrated websites of Sentosa Villas Group</p><p>Administrator of the CMS can login to a given administration area to manage website content and media. This administration area allows administrators and content editors to choose what website they want to manage from their 6 different websites.</p>",
+      "Stack": "ASP.NET MVC, NHibernate ORM, Microsoft SQL Server",
+      "Status": "Inactive",
+      "Cover": "/assets/images/projects/sentosa/cover.jpg",
+      "Tags": [
+        "Website",
+        "Platform"
+      ]
+    },
+    {
+      "Title": "Breakthrough Restaurant and Cafe POS System",
+      "Description": "<p>POS (Point of Sales) System for Breakthrough Restaurant and Cafe, Bali.</p>",
+      "Stack": "C# .NET Windows Application, Microsoft SQL Server, Epson Thermal Printer Machine",
+      "Status": "Inactive",
+      "Cover": "/assets/images/projects/bmresto/cover.jpg",
+      "Tags": [
+        "POS"
+      ]
+    }
+  ]
+}
